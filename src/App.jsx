@@ -58,7 +58,7 @@ function App() {
         
         <div className="grid lg:grid-cols-2 gap-8 max-w-7xl mx-auto">
           
-          <div className="backdrop-blur-lg bg-white/10 border border-white/20 rounded-3xl p-8 shadow-2xl hover:shadow-purple-500/25 transition-all duration-500">
+          <div className="min-h-[500px] backdrop-blur-lg bg-white/10 border border-white/20 rounded-3xl p-8 shadow-2xl hover:shadow-purple-500/25 transition-all duration-500">
             <div className="flex items-center gap-3 mb-8">
               <div className="w-3 h-8 bg-gradient-to-b from-cyan-400 to-purple-400 rounded-full"></div>
               <h2 className="text-2xl font-bold text-white">Users</h2>
